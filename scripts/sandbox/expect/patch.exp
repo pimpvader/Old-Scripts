@@ -7,7 +7,7 @@ spawn /usr/bin/ssh $hostname "sudo /usr/sbin/cnvr-patch query; exit"
 
 expect {
 "[sudo] password for jrohde:" {
-send "2&bV10hk\n"
+send "INSERT PASSWORD HERE\n"
 expect {
  ">" { }
  "$" { }
