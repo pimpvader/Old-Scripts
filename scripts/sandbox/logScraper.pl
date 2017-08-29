@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#Programmer: Jason Rohde with some mentoring from The Zahid
+#Programmer: Jason Rohde
 #Date: Thu 01 May 2014 12:01:21 PM CDT
 #Purpose: TO Scrape logfiles for a particular string, originally to check maestro.log for for 'Pool Exhausted' errors
 #Usage: /path/to/script file string or /path/to/script file "quoted string"
