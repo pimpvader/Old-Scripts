@@ -1,0 +1,141 @@
+dtiad04dma13p.int: CentOS release 6.5 (Final)
+dtiad04dma14p.int: CentOS release 6.5 (Final)
+dtiad04dma15p.int: CentOS release 6.5 (Final)
+dtsjc02dma01p.int: Mem:         80571      47723      32848          0        159       4111
+dtsjc02dma01p.int: CentOS release 6.3 (Final)
+dtsjc02dma02p.int: Mem:         80571      48735      31835          0        141       4120
+dtsjc02dma02p.int: CentOS release 6.3 (Final)
+dtsjc02dma03p.int: Mem:         80571      47173      33398          0        146       2704
+dtsjc02dma03p.int: CentOS release 6.3 (Final)
+dtsjc02dma04p.int: Mem:         80571      46637      33933          0        150       2742
+dtsjc02dma04p.int: CentOS release 6.3 (Final)
+dtsjc02dma05p.int: Mem:         80571      46736      33834          0        104       2303
+dtsjc02dma05p.int: CentOS release 6.5 (Final)
+dtsjc02dma06p.int: Mem:         80571      43891      36679          0         84        940
+dtsjc02dma06p.int: CentOS release 6.3 (Final)
+dtsjc02dma07p.int: Mem:         80571      48491      32080          0        151       4115
+dtsjc02dma07p.int: CentOS release 6.3 (Final)
+dtsjc02dma08p.int: Mem:         80571      48646      31924          0        158       3969
+dtsjc02dma08p.int: CentOS release 6.3 (Final)
+dtsjc02dma09p.int: Mem:         80571      48243      32328          0        147       3783
+dtsjc02dma09p.int: CentOS release 6.3 (Final)
+dtsjc02dma10p.int: Mem:         80571      47964      32607          0        155       3640
+dtsjc02dma10p.int: CentOS release 6.3 (Final)
+dtsjc02dma11p.int: Mem:         80571      46908      33662          0        148       2670
+dtsjc02dma11p.int: CentOS release 6.3 (Final)
+dtsjc02dma12p.int: Mem:         80571      46397      34173          0        142       2534
+dtsjc02dma12p.int: CentOS release 6.3 (Final)
+dtsjc02dma13p.int: Mem:         80571      46721      33850          0        153       2667
+dtsjc02dma13p.int: CentOS release 6.3 (Final)
+dtsjc02dma14p.int: Mem:         80571      46360      34211          0        154       2640
+dtsjc02dma14p.int: CentOS release 6.3 (Final)
+dtsjc02dma15p.int: Mem:         80571      46339      34232          0        149       2862
+dtsjc02dma15p.int: CentOS release 6.3 (Final)
+dtsjc02dma16p.int: Mem:         80571      43159      37412          0         76        933
+dtsjc02dma16p.int: CentOS release 6.3 (Final)
+dtsjc02dma17p.int: Mem:         80571      42735      37835          0         87        973
+dtsjc02dma17p.int: CentOS release 6.3 (Final)
+dtsjc02dma18p.int: Mem:         80571      43308      37263          0         83        975
+dtsjc02dma18p.int: CentOS release 6.3 (Final)
+dtsjc02dma19p.int: Mem:         80571      43718      36852          0         90       1006
+dtsjc02dma19p.int: CentOS release 6.3 (Final)
+dtsjc02dma20p.int: Mem:         80571      43260      37311          0         87        924
+dtsjc02dma20p.int: CentOS release 6.3 (Final)
+dtsjc02dma21p.int: Mem:         80571      43262      37309          0         52        924
+dtsjc02dma21p.int: CentOS release 6.3 (Final)
+dtsjc02dma22p.int: Mem:         80571      43371      37200          0         51       1135
+dtsjc02dma22p.int: CentOS release 6.3 (Final)
+dtsjc02dma23p.int: Mem:         80571      43633      36937          0         62        997
+dtsjc02dma23p.int: CentOS release 6.3 (Final)
+dtsjc02dma24p.int: Mem:         80571      42945      37626          0         57        898
+dtsjc02dma24p.int: CentOS release 6.3 (Final)
+dtsjc02dma25p.int: Mem:         80571      43698      36872          0         61       1048
+dtsjc02dma25p.int: CentOS release 6.3 (Final)
+dtsjc02dma26p.int: Mem:         80571      43682      36888          0         60        971
+dtsjc02dma26p.int: CentOS release 6.3 (Final)
+dtsjc02dma27p.int: Mem:         80537      44186      36350          0         85       1024
+dtsjc02dma27p.int: CentOS release 6.3 (Final)
+dtsjc02dma28p.int: Mem:         80537       2439      78097          0         19        177
+dtsjc02dma28p.int: CentOS release 6.3 (Final)
+dtsjc02dma29p.int: Mem:         80537      46327      34210          0         97       1046
+dtsjc02dma29p.int: CentOS release 6.3 (Final)
+dtsjc02dma31p.int: Mem:         80571      46697      33874          0        161       3145
+dtsjc02dma31p.int: CentOS release 6.3 (Final)
+dtsjc02dma32p.int: Mem:         80571      43141      37429          0         51       1216
+dtsjc02dma32p.int: CentOS release 6.3 (Final)
+dtsjc02dma33p.int: Mem:         80571      44853      35717          0         51       1093
+dtsjc02dma33p.int: CentOS release 6.3 (Final)
+dtsjc02dma34p.int: Mem:         80571      47935      32636          0        166       3753
+dtsjc02dma34p.int: CentOS release 6.3 (Final)
+dtsjc02dma35p.int: Mem:         80571      46467      34103          0        160       3140
+dtsjc02dma35p.int: CentOS release 6.3 (Final)
+dtsjc01dma01p.int: Mem:         80571      43776      36794          0        118       1052
+dtsjc01dma01p.int: CentOS release 6.5 (Final)
+dtsjc01dma02p.int: Mem:         80571      43220      37350          0        117       1072
+dtsjc01dma02p.int: CentOS release 6.5 (Final)
+dtsjc01dma03p.int: Mem:         80571      43543      37027          0        120        970
+dtsjc01dma03p.int: CentOS release 6.5 (Final)
+dtsjc01dma04p.int: Mem:         80571      42523      38048          0         78        896
+dtsjc01dma04p.int: CentOS release 6.5 (Final)
+dtsjc01dma05p.int: Mem:         80571      43454      37116          0         67        873
+dtsjc01dma05p.int: -/+ buffers/cache:      42514      38056
+dtsjc01dma05p.int: CentOS release 6.5 (Final)
+dtsjc01dma06p.int: Mem:         80571      44808      35762          0        118        995
+dtsjc01dma06p.int: CentOS release 6.5 (Final)
+dtsjc01dma07p.int: Mem:         80571      43408      37162          0        110       1021
+dtsjc01dma07p.int: CentOS release 6.5 (Final)
+dtsjc01dma08p.int: Mem:         80571      43349      37221          0        115       1155
+dtsjc01dma08p.int: CentOS release 6.5 (Final)
+dtsjc01dma09p.int: Mem:         80571      42603      37968          0         78        894
+dtsjc01dma09p.int: CentOS release 6.5 (Final)
+dtsjc01dma10p.int: Mem:         80571      43059      37512          0         74        977
+dtsjc01dma10p.int: CentOS release 6.5 (Final)
+dtsjc01dma11p.int: Mem:         80571      43217      37353          0        112       1065
+dtsjc01dma11p.int: CentOS release 6.5 (Final)
+dtsjc01dma12p.int: Mem:         80571      43351      37219          0        112       1026
+dtsjc01dma12p.int: CentOS release 6.5 (Final)
+dtsjc01dma13p.int: Mem:         80571      42949      37621          0         74        943
+dtsjc01dma13p.int: CentOS release 6.5 (Final)
+dtsjc01dma14p.int: Mem:         80571      42802      37769          0         73        949
+dtsjc01dma14p.int: CentOS release 6.5 (Final)
+dtsjc01dma15p.int: Mem:         80571      42915      37655          0         74        982
+dtsjc01dma15p.int: CentOS release 6.5 (Final)
+dtsjc01dma16p.int: Mem:         80571      43086      37484          0        111        976
+dtsjc01dma16p.int: CentOS release 6.5 (Final)
+dtsjc01dma17p.int: Mem:         80571      42975      37595          0        112       1136
+dtsjc01dma17p.int: CentOS release 6.5 (Final)
+dtsjc01dma18p.int: Mem:         80571      43740      36830          0         84        990
+dtsjc01dma18p.int: CentOS release 6.5 (Final)
+dtsjc01dma19p.int: Mem:         80571      42895      37676          0        113        955
+dtsjc01dma19p.int: CentOS release 6.5 (Final)
+dtsjc01dma21p.int: Mem:         80571      67669      12901          0         44       2307
+dtsjc01dma21p.int: CentOS release 6.5 (Final)
+dtsjc01dma22p.int: Mem:         80571      45305      35266          0         67       1251
+dtsjc01dma22p.int: CentOS release 6.5 (Final)
+dtsjc01dma23p.int: Mem:         80571      43897      36674          0         69       1311
+dtsjc01dma23p.int: -/+ buffers/cache:      42516      38054
+dtsjc01dma23p.int: CentOS release 6.5 (Final)
+dtsjc01dma24p.int: Mem:         80571      43633      36937          0         68       1327
+dtsjc01dma24p.int: CentOS release 6.5 (Final)
+dtsjc01dma25p.int: Mem:         80571      43705      36865          0         68       1163
+dtsjc01dma25p.int: CentOS release 6.5 (Final)
+dtsjc01dma26p.int: Mem:         80571      44142      36429          0         66       1184
+dtsjc01dma26p.int: CentOS release 6.5 (Final)
+dtsjc01dma27p.int: Mem:         80536      44741      35795          0         64        923
+dtsjc01dma27p.int: CentOS release 6.5 (Final)
+dtsjc01dma28p.int: Mem:         80536      45540      34996          0         82       1329
+dtsjc01dma28p.int: CentOS release 6.5 (Final)
+dtsjc01dma29p.int: Mem:         80536      44312      36223          0         88       1085
+dtsjc01dma29p.int: CentOS release 6.5 (Final)
+dtsjc01dma30p.int: Mem:         80536      44076      36460          0         66       1116
+dtsjc01dma30p.int: CentOS release 6.5 (Final)
+dtsjc01dma31p.int: Mem:         80571      43879      36691          0         62        358
+dtsjc01dma31p.int: CentOS release 6.5 (Final)
+dtsjc01dma32p.int: Mem:         80571      42835      37735          0         61        895
+dtsjc01dma32p.int: CentOS release 6.5 (Final)
+dtsjc01dma33p.int: Mem:         80571      43018      37552          0         62        943
+dtsjc01dma33p.int: CentOS release 6.5 (Final)
+dtsjc01dma34p.int: Mem:         80571      43255      37315          0         85       1115
+dtsjc01dma34p.int: CentOS release 6.5 (Final)
+dtsjc01dma35p.int: Mem:         80571      42811      37759          0         85       1114
+dtsjc01dma35p.int: CentOS release 6.5 (Final)

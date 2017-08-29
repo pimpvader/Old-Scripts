@@ -1,0 +1,17 @@
+#!/usr/bin/expect
+exp_internal 1
+
+set timeout 30
+set hostname [lindex $argv 0]
+spawn /usr/bin/ssh $hostname "sudo /usr/sbin/cnvr-patch query; exit"
+
+expect {
+"[sudo] password for jrohde:" {
+send "2&bV10hk\n"
+expect {
+ ">" { }
+ "$" { }
+}
+}
+}
+

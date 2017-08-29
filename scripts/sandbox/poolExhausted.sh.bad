@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#Programmer: Jason Rohde
+#Date:Wed Apr 30 10:07:31 CDT 2014
+#Purpose: Check /opt/logs/maestrob/maestro.log for 'com.dotomi.maestro.cache.MaestroCacheException: org.apache.commons.dbcp.SQLNestedException: Cannot get a connection, pool error Pool exhausted'
+
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+
+file=/opt/logs/maestrob/maestro.log
+string="Pool exhausted"
+date=$(date +%c)
+
+while true
+do
+if tail -f $file | fgrep $string
+then
+echo -e "$string found on $HOSTNAME at $date" | mail -s "Maestro Pool Errors"-c SW_AlertCentral@conversantmedia.com  kehansen@conversantmedia.com
+fi
+done

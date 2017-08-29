@@ -1,0 +1,17 @@
+#!/usr/bin/expect
+#exp_internal 1
+
+set timeout 30
+set hostname [lindex $argv 0]
+spawn /usr/bin/ssh $hostname "hostname; exit"
+
+expect {
+"continue connecting (yes/no)?" {
+send "yes\n"
+expect {
+ ">" { }
+ "$" { }
+}
+}
+}
+

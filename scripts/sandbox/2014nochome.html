@@ -1,0 +1,155 @@
+<!--DOCTYPE html>-->
+<html>
+	<head>
+		<title>Network Operations</title>
+			<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+			<style type="text/css">
+			#header {
+				-webkit-border-bottom-right-radius: 5px;
+				-webkit-border-bottom-left-radius: 5px;
+				-moz-border-radius-bottomright: 5px;
+				-moz-border-radius-bottomleft: 5px;
+				border-bottom-right-radius: 5px;
+				border-bottom-left-radius: 5px;
+				box-shadow: 1px 1px 10px #888888;
+				
+				text-align:center;
+				width:1900px;
+				margin:0 auto;
+				background-color:#ccc;
+				border:#eee 1px solid;
+				border-top:none;
+				font-size:28px;
+				padding-top:5px;
+				padding-bottom:5px;
+			}
+			
+			table {
+				border-spacing:0px;
+				-webkit-border-radius: 5px;
+				-moz-border-radius: 5px;
+				border-radius: 5px;
+				margin-top:5px;
+				box-shadow: 1px 1px 10px #888888;
+				width:100%;
+			}
+			
+			body {
+				font-family: 'Droid Sans', sans-serif;
+				background-color:#FFFFFF;
+			}
+			
+			td img {
+				max-width:100%;
+				height: auto;
+				width: auto\9; /* ie8 */
+			}
+			
+			td {
+				/*padding:3px;*/
+				font-size:15px;
+				max-width:625px;
+			}
+		</style>
+		<script type="text/javascript">
+
+			function f1()
+				{
+					var x=document.getElementById("state_of_internet");
+					x.src=x.src+Math.floor(random()%100000);
+				}
+
+			setInterval(f1,30*1000);
+
+		</script>
+		<script type="text/javascript">
+
+			function f2()
+				{
+					var x=document.getElementById("sw_map");
+					x.src=x.src+Math.floor(random()%100000);
+				}
+
+			setInterval(f2,30*1000);
+
+		</script>
+		<script type="text/javascript">
+
+			function f3()
+				{
+					var x=document.getElementById("stoplight");
+					x.src=x.src+Math.floor(random()%100000);
+				}
+
+			setInterval(f3,30*1000);
+
+		</script>
+
+				
+	</head>
+	<body>
+	<table>
+           <tr><td>
+                <div id="contact_info">
+                                <hr>
+                        <h3>Network OperationsContact Information</h3>
+	           <b> &bull; Jabber chatroom: <i>prodstatus</i></b> (Supported Jabber Client: Pidgin<a href="http://wiki.dotomi.com/display/HFAQ/Configuring+Pidgin+For+Use+With+The+Dotomi+Jabber+Server"> Directions on how to connect</a>)&nbsp;&nbsp;
+                              <br> <b> &bull; IT Teams contact info:</b><a href="contact.html">Click Here</a> &nbsp;&nbsp;
+                               <b> &bull; Email Network Operations:</b> <a href="mailto:DTM_Network_Operations@corp.valueclick.com?Subject=NetOps%20Support%20Request">Network Operations</a>&nbsp;&nbsp;
+                       <br><br> 
+                </div>
+                </td></tr>
+	<tr><td>
+		<div id="Stoplight_patch_Schedule" >
+			<table border="0">
+				<tr>
+					<td width="15%"><iframe id="stoplight" frameborder="0" src="http://ord-mon105.corp.valueclick.com/Orion/NetPerfMon/NetworkMap.aspx?Map=f21332ec-a1de-4893-9d8c-250568ab2f2c.OrionMap&Scale=100&r=2144549457&ViewId=6"></iframe>
+					<td width="42.5%">
+							<iframe id="oncall_today" frameborder="0" src="http://10.110.101.115/index.html#oncall/"></iframe>
+						</td>
+							</tr>
+							</tr>
+			</table>
+					<td>
+					<table id="oncall_ITOPS" border="1">
+					<tr>	<th colspan="2">ITOPS On Call</th></tr>
+					<tr>	<th>Date</th><th> Engineer</th></tr>
+					<tr><td>9/9 - 9/16</td><td><abbr title="Shawn Green:(630)589-2789">Shawn</abbr></td></tr>
+                                        <tr><td>9/16 - 9/23</td><td><abbr title="Zahid Bukhari:(312)342-8088">Zahid</abbr></td></tr>
+                                        <tr><td>9/23 - 9/30</td><td><abbr title="Marvin Germany:(312)576-2853">Marvin</abbr></td></tr>
+                                        <tr><td>9/30 - 10/7</td><td><abbr title="Jason Rohde:(630)299-6396">Jason</abbr></td></tr>
+                                        <tr><td>10/7 - 10/14</td><td><abbr title="Nelson Morales:(224)303-8498">Nelson</abbr></td></tr>
+                                        <tr><td>10/14 - 10/21</td> <td> <abbr title="Josh Rasey:(331)262-1709">Josh</abbr></td></tr>
+                                        <tr><td>10/21 - 10/28</td><td><abbr title="Matthew Blancett:(773)391-3667">Matt</abbr></td></tr>
+                                        <tr><td>10/28 - 11/4</td><td><abbr title="Shawn Green:(630)589-2789">Shawn</abbr></td></tr>
+    					</table>
+					</td>	
+			</table>
+	
+		</div>
+		</td></tr>
+		<tr><td>
+		<div id="Wan_Health_Interweb_Health">
+						<table width="50%">
+					<tr>
+					<td>
+					<iframe seamless="seamless" scrolling="yes" frameborder="0" width="100%" height="600px" src="http://10.110.101.115/index.html#oncall/"></iframe><!--	<iframe seamless="seamless" scrolling="no" frameborder="0" width="100%" height="600px"src="http://internethealthreport.com/"></iframe>-->
+					</td>
+					<td width="50%" align="center">
+					<iframe seamless="seamless" scrolling="no" height="452px" frameborder="0" width="600px" src="http://ord-mon105.corp.valueclick.com/Orion/NetPerfMon/NetworkMap.aspx?Map=f1f40dc0-650d-4235-b0fc-1420e88c9160.OrionMap&Scale=60&r=1434887129&ViewId=1"></iframe><!--	<iframe seamless="seamless"  scrolling="no" height="452px" frameborder="0" width="600px" src="http://monitor2/Orion/NetPerfMon/NetworkMap.aspx?Map=953efc36-302b-4dd8-9f3c-4b3ecf46f19b.OrionMap&Scale=80&r=87729131&ViewId=1"></iframe>-->
+					</td>
+					</tr>
+				</table>
+		</div>
+		</td></tr>
+<!--		<tr><td>
+		<div id="contact_info">
+				<hr>
+			<h2>Network OperationsContact Information</h2>
+			<ul>
+				<li>Email Network Operations: <a href="mailto:NetOps@dotomi.com?Subject=NetOps%20Support%20Request">Network Operations</a></li>
+				<li>Jabber chatroom:prodstatus (Supported Jabber Client: Pidgin<a href="http://wiki.dotomi.com/display/HFAQ/Configuring+Pidgin+For+Use+With+The+Dotomi+Jabber+Server">Directions on how to connect)</a></li>
+				<li>IT Teams and how to contact them:<a href="contact.html">Click Here</a></li>
+			</ul>
+		</div>
+		</td></tr>-->

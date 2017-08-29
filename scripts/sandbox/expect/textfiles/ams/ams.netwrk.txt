@@ -1,0 +1,11 @@
+ dtams00hsw0101p		
+ dtams00hsw0102p		
+ dtams00swt01p.dc.dotomi.net		
+ dtams00swt02p.dc.dotomi.net		
+ dtams01swt01p.dc.dotomi.net		
+ dtams02swt01p.dc.dotomi.net		
+ dtams00fwv01p		
+ dtams00fwl01p		
+ dtams00fwl02p		
+ dtams00cor01p.dc.dotomi.net		
+ dtams00cor02p.dc.dotomi.net		

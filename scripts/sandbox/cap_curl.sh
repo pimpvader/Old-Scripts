@@ -1,0 +1,15 @@
+#!/bin/bash
+#PROGRAMMER: Jason Rohde
+#DATE:Wed Sep 24 12:18:06 CDT 2014
+#PURPOSE: Check URL availability
+#USAGE:/home/nocmon/swbin/cap_curl.sh <URL TO CHECK>
+#set -x
+TARGET=$1 #URL to check
+RESPONSE=$(curl -Iks $TARGET | grep HTTP | awk '{print $2}') #Return code from HTTP Header
+if [[ $RESPONSE -eq 200 ]] ; then
+	echo "Status.Message: $TARGET is up and available"
+	echo "Status.Statistic: $RESPONSE"
+else
+        echo "Status.Message: $TARGET is returning $RESPONSE, please investigate"
+	echo "Status.Statistic: $RESPONSE"
+fi
